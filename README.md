@@ -1,5 +1,7 @@
 Public Page for BNZ Rates
 
+| Term | Rates |
+|---|---|
 | Floating	| 7.04% |
 | 6 months	| 5.79% |
 | 1 year | 5.29% |
