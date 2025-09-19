@@ -32,6 +32,7 @@ async def main():
 
         # Write markdown file
         with open("bnz_rates.md", "w", encoding="utf-8") as f:
+            f.write("Public Page for BNZ Rates\n\n")
             if table_data:
                 # Header row
                 header = table_data[0]
