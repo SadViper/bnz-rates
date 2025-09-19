@@ -12,7 +12,7 @@ async def main():
         await page.goto(URL)
 
         # Wait for the table
-        await page.wait_for_selector("table")
+        await page.wait_for_timeout(10000)
 
         first_table = await page.query_selector("table")
 
