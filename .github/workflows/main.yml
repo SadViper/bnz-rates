@@ -1,4 +1,4 @@
-Name: Update BNZ Rates
+name: Update BNZ Rates
 
 on:
   schedule:
