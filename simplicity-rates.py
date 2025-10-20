@@ -23,7 +23,7 @@ f.close()
 print(rateSaved)
 
 #Get Current Rate from simplicity website and parse output
-r = requests.get(URL, verify=False)
+r = requests.get(URL)
 soup = BeautifulSoup(r.text, 'html.parser')
 h2 = soup.find_all('h2')
 for h in h2:
