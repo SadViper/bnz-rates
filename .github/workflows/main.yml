@@ -2,7 +2,7 @@ name: Update BNZ Rates
 
 on:
   schedule:
-    - cron: "0 17 * * 1,5"   # 17:00 on Monday and Friday
+    - cron: "0 5 * * 1,5"   # 17:00 on Monday and Friday
   workflow_dispatch:       # allow manual trigger
 
 jobs:
