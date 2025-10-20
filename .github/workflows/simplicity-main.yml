@@ -1,4 +1,4 @@
-name: Update BNZ Rates
+name: Update Simplicity Rates
 
 on:
   schedule:
