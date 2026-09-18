@@ -2,7 +2,7 @@ Public Page for BNZ Rates
 
 | Term | Standard | TotalMoney | Rapid Repay | Mortgage One |
 | --- | --- | --- | --- | --- |
-| Floating | 6.09% | 6.19% | 6.19% | 6.19% |
+| Floating | 6.34% | 6.44% | 6.44% | 6.44% |
 | 6 months | 4.79% | n/a | n/a | n/a |
 | 1 year | 4.99% | n/a | n/a | n/a |
 | 18 months | 5.29% | n/a | n/a | n/a |
